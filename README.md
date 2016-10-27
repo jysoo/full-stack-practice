@@ -1,6 +1,6 @@
 # full-stack-practice
 
-This mini-project is for practice purposes based on the Udacity Full Stack Foundations course (ud088). It is a catalog that comprises menus of restaurants.
+This mini-project is for practice purposes based on the Udacity Full Stack Foundations course (ud088). It is a catalog that consists of menus of restaurants.
 
 1) Taster of back-end web development.
 
