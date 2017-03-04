@@ -8,6 +8,12 @@ This mini-project is for practice purposes based on the Udacity Full Stack Found
 
 3) Interact with a database from a web application using an Object-Relational Mapping (ORM) layer. GET and POST requests. CRUD operations.
 
+Implement CRUD operations on a database.
+Use an ORM (Object-Relational Mapping) as an alternative to SQL.
+Build a web server from scratch using Python and some pre-installed libraries.
+Use the Flask web framework to develop our own web application.
+Introduction to APIs and how to add JSON endpoints to our application.
+
 
 To run the project:
 
